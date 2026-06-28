@@ -149,7 +149,7 @@ Graph-based fraud detection
 Generative AI investigation assistants
 Advanced behavioral analytics
 
-Conclusion
+# Conclusion
 CardShield demonstrates how modern cloud-native data engineering, fraud analytics, operational workflows, and governance controls can be combined to create a scalable fraud detection and investigation platform.
 
 The solution reflects many of the architectural patterns used within large-scale financial institutions while remaining suitable for educational, portfolio, and proof-of-concept purposes.
